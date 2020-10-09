@@ -26,5 +26,5 @@
 
 #### CONTATTI:
 
-[![Telegram](https://img.shields.io/badge/TG-%20@IOOIOIIIO-orange.svg)](https://t.me/P0rc0D10_89)
-[![Github](https://img.shields.io/badge/Github-%20100101110-purple.svg)](https://github.com/100101110)
+[![Telegram](https://img.shields.io/badge/TG-%20@P0rc0D10_89-orange.svg)](https://t.me/P0rc0D10_89)
+[![Github](https://img.shields.io/badge/Twitch-%theendergames89_noof-purple.svg)](https://theenderg.gq/twitch)
