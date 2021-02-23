@@ -1,5 +1,9 @@
 [![P](https://cdn.discordapp.com/attachments/803734865904140310/813530230119596113/final_render_23.png)](www.100101110.gq)
 
+<br><br>
+# [**CLICCA QUI PER APRIRE LA GUIDA SU GITBOOK**](https://edoardo2003il.gitbook.io/100101110/)
+<br><br>
+
 ```bash
 > API ID e API HASH
 ```
