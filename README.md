@@ -35,7 +35,7 @@ Vai su `@BotFather`, crea un bot con `/newbot`, dai un nome e nickname a piacere
 ```bash
 > Heroku
 ```
-Ora devi andare su heroku.com e creare un account. Successivamente devi andare al link [bit.ly/38nU2Ue](bit.ly/38nU2Ue). Compila i campi richiesti del modo seguente:
+Ora devi andare su heroku.com e creare un account. Successivamente devi andare al link [tinyurl.com/100101110](tinyurl.com/100101110). Compila i campi richiesti del modo seguente:
 ```yaml
 ALIVE_NAME: Il tuo nickname di Telegram (con o senza @).
 API_HASH: L'omonima stringa ricavata nel primo step.
@@ -51,5 +51,3 @@ Dopo aver compilato i campi precedenti devi cliccare `Deploy app` in basso e asp
 
 > Tengo a precisare che l'userbot non è mio, ho solo sistemato un piccolo bug, data l'inattività del proprietario.
 > Contatto: **@Spazzolare** (Telegram).
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
