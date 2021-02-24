@@ -51,3 +51,5 @@ Dopo aver compilato i campi precedenti devi cliccare `Deploy app` in basso e asp
 
 > Tengo a precisare che l'userbot non è mio, ho solo sistemato un piccolo bug, data l'inattività del proprietario.
 > Contatto: **@Spazzolare** (Telegram).
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
